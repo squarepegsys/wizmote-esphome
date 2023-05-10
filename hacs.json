@@ -1,4 +1,5 @@
 
 {
-  "name": "wizmote-esphome"
+  "name": "wizmote-esphome",
+    "render_readme": true
 }
